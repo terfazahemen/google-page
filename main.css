@@ -1,0 +1,178 @@
+header{
+
+}
+
+.googleappsimg{
+    position: relative;
+    top: 3px;
+
+}
+hr{
+    opacity: 0.6;
+}
+
+
+nav {
+    width: 10%;
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 84%;
+    margin-top: 20px;
+
+}
+
+.googledot{
+    margin-left: 94%;
+    margin-top: auto;
+    position: relative;
+    bottom: 19px;
+    left: 6px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(143, 130, 130);
+    font-family: Arial;
+    font-size: 14px;
+}
+
+
+main{
+    width: 50%;
+    margin:  auto ;
+    margin-top: 12%;
+    text-align: center;
+}
+
+
+
+
+
+input{
+    width: 82%;
+    height: 42px;
+    border-radius: 20px;
+    border:0px white;
+    box-shadow: 1px 1px 4px rgb(177, 174, 174);
+    margin-top: 33px;
+    outline-style: none;
+   
+
+}
+
+.search-icon{
+    position: relative;
+    left: 11%;
+    bottom: 33px;
+    width: 20px;
+}
+
+.microphone{
+    position: relative;
+    left: 86%;
+    bottom: 62px;
+    width: 20px;
+}
+
+
+
+::placeholder{
+    padding-left: 8%;
+    font-size:16px;
+    font-family: Arial;
+    color: rgb(111, 104, 104);
+}
+
+.shortcuts{
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 30px;
+    left: 80px;
+}
+
+/* .shortcuts-1{ 
+    position: relative;
+    top: -35px;
+    right: 40px;
+    width: 88px;
+    height: 100px;
+    
+}
+
+.shortcuts-1:hover{
+    background-color: #e8e8e8;
+    border-radius: 4px;
+}
+
+.shortcuts-2{
+    position: relative;
+    top: -35px;
+    right: 10px;
+    width: 88px;
+    height: 100px;
+}
+
+.shortcuts-2:hover{
+    background-color: #e8e8e8;
+    border-radius: 4px;
+}
+
+
+.shortcuts-3{
+    position: relative; 
+    top: -35px;
+    left: 25px;
+    width: 88px;
+    height: 100px;
+}
+
+.shortcuts-3:hover{
+    background-color:  #e8e8e8;
+    border-radius: 4px;
+}
+
+
+.shortcuts-4{
+    position: relative; 
+    top: -35px;
+    left: 60px;
+    width: 88px;
+    height: 100px;
+}
+
+.shortcuts-4:hover{
+    background-color: #e8e8e8;
+    border-radius: 4px;
+}*/
+
+.customize-button{
+    background-color: white;
+    width: 117.6px;
+    height: 32px;
+    position: relative;
+    top: 77px;
+    left: 130%;
+    border-radius: 20px;
+    border:1px white  ;
+    box-shadow: 1px 2px 4px rgb(177, 174, 174);
+    font-family: Arial;
+}
+
+.img-pen{
+    position: relative;
+    top: 10px;
+    right: 39px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1a73e8;
+    position: relative;
+    bottom: 24px;
+    left: 8px;
+    font-size: 13px;
+
+}
